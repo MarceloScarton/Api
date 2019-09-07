@@ -1,0 +1,14 @@
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\bin\Debug\netcoreapp2.1\WebApiUdemy.deps.json
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\bin\Debug\netcoreapp2.1\WebApiUdemy.runtimeconfig.json
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\bin\Debug\netcoreapp2.1\WebApiUdemy.runtimeconfig.dev.json
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\bin\Debug\netcoreapp2.1\WebApiUdemy.dll
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\bin\Debug\netcoreapp2.1\WebApiUdemy.pdb
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.csprojAssemblyReference.cache
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.csproj.CoreCompileInputs.cache
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.RazorAssemblyInfo.cache
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.RazorAssemblyInfo.cs
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.AssemblyInfoInputs.cache
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.AssemblyInfo.cs
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.RazorTargetAssemblyInfo.cache
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.dll
+C:\Users\scart\OneDrive\Documentos\ProjetoApi\Api\WebApiUdemy\WebApiUdemy\obj\Debug\netcoreapp2.1\WebApiUdemy.pdb
